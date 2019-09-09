@@ -1,0 +1,3 @@
+C:/Users/ItsJaan/CLionProjects/BaseDatosVirtual/cmake-build-debug/CMakeFiles/BaseDatosVirtual.dir
+C:/Users/ItsJaan/CLionProjects/BaseDatosVirtual/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ItsJaan/CLionProjects/BaseDatosVirtual/cmake-build-debug/CMakeFiles/rebuild_cache.dir

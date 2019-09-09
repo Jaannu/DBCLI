@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ItsJaan/CLionProjects/BaseDatosVirtual/Structs.h
+
+C:/Users/ItsJaan/CLionProjects/BaseDatosVirtual/Table.cpp
+cstring
+-
+fstream
+-
+sstream
+-
+Table.h
+C:/Users/ItsJaan/CLionProjects/BaseDatosVirtual/Table.h
+
+C:/Users/ItsJaan/CLionProjects/BaseDatosVirtual/Table.h
+iostream
+-
+Structs.h
+C:/Users/ItsJaan/CLionProjects/BaseDatosVirtual/Structs.h
+
